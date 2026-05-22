@@ -1,0 +1,6 @@
+{
+  "name": "Ajman.Retro iptv",
+  "description": "A premium cinematic IPTV playlist player with advanced channel cataloging and an immersive dark mode theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
